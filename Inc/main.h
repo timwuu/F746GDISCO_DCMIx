@@ -382,7 +382,7 @@
 /* #define USE_FULL_ASSERT    1U */
 
 /* USER CODE BEGIN Private defines */
-
+#define FRAME_BUFFER	0xC0000000
 /* USER CODE END Private defines */
 
 #ifdef __cplusplus
